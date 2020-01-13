@@ -23,7 +23,7 @@
 
 
 package leetcode.editor.cn;
-//Java：寻找两个有序数组的中位数
+//Java：寻找两个有序数组的中位数 
 public class P4MedianOfTwoSortedArrays{
     public static void main(String[] args) {
         Solution solution = new P4MedianOfTwoSortedArrays().new Solution();
